@@ -17,7 +17,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://wa.me/+91XXXXXXXXXX"
+                href="https://wa.me/+919676920928"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-600 text-white px-4 py-2 rounded-md hover:bg-green-700 transition-colors"
@@ -25,7 +25,7 @@ const Footer = () => {
                 WhatsApp
               </a>
               <a
-                href="tel:+91XXXXXXXXXX"
+                href="tel:+919676920928"
                 className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors"
               >
                 Call Now
@@ -39,7 +39,6 @@ const Footer = () => {
             <ul className="space-y-2">
               <li><Link to="/" className="text-gray-300 hover:text-blue-400 transition-colors">Home</Link></li>
               <li><Link to="/services" className="text-gray-300 hover:text-blue-400 transition-colors">Services</Link></li>
-              <li><Link to="/about" className="text-gray-300 hover:text-blue-400 transition-colors">About Us</Link></li>
               <li><Link to="/contact" className="text-gray-300 hover:text-blue-400 transition-colors">Contact</Link></li>
               <li><Link to="/upload" className="text-gray-300 hover:text-blue-400 transition-colors">Upload Documents</Link></li>
             </ul>
@@ -51,7 +50,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">+91 XXXXX-XXXXX</span>
+                <span className="text-gray-300">+91 9676920928</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />

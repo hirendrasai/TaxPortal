@@ -10,7 +10,6 @@ const Header = () => {
   const navigation = [
     { name: 'Home', href: '/' },
     { name: 'Services', href: '/services' },
-    { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' },
     { name: 'Upload Documents', href: '/upload' },
   ];
@@ -26,7 +25,7 @@ const Header = () => {
             <div className="flex items-center space-x-4">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+91 XXXXX-XXXXX</span>
+                <span>+91 9676920928</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
@@ -65,7 +64,7 @@ const Header = () => {
               </Link>
             ))}
             <a
-              href="https://wa.me/+91XXXXXXXXXX"
+              href="https://wa.me/+919676920928"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-green-700 transition-colors"
@@ -104,7 +103,7 @@ const Header = () => {
                 </Link>
               ))}
               <a
-                href="https://wa.me/+91XXXXXXXXXX"
+                href="https://wa.me/+919676920928"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block bg-green-600 text-white px-3 py-2 rounded-md text-base font-medium hover:bg-green-700 transition-colors"
