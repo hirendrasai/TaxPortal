@@ -172,7 +172,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Phone</h3>
-                    <p className="text-gray-600">+91 XXXXX-XXXXX</p>
+                    <p className="text-gray-600">+91 9676920928</p>
                     <p className="text-sm text-gray-500">Mon-Sat: 9:00 AM - 6:00 PM</p>
                   </div>
                 </div>
@@ -183,7 +183,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Email</h3>
-                    <p className="text-gray-600">info@taxconsultant.com</p>
+                    <p className="text-gray-600">inampudivenkatarao@gmail.com</p>
                     <p className="text-sm text-gray-500">We'll respond within 24 hours</p>
                   </div>
                 </div>
@@ -220,7 +220,7 @@ const Contact = () => {
                 <h3 className="text-xl font-semibold text-gray-900">Quick Actions</h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   <a
-                    href="https://wa.me/+91XXXXXXXXXX"
+                    href="https://wa.me/+919676920928"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors flex items-center justify-center"
@@ -229,7 +229,7 @@ const Contact = () => {
                     WhatsApp Chat
                   </a>
                   <a
-                    href="tel:+91XXXXXXXXXX"
+                    href="tel:+919676920928"
                     className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors flex items-center justify-center"
                   >
                     <Phone className="mr-2 h-5 w-5" />
