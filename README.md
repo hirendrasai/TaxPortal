@@ -37,8 +37,14 @@ Deploy using your preferred platform (e.g., Vercel, Netlify) or follow your team
 ---
 ## Loading Screens
 
-TaxPortal
-/Screenshot 2025-09-10 145554.png
+## StartScreen
+![StartScreen](Screenshot%202025-09-10%20145554.png)
+
+## Services
+![Services](Screenshot%202025-09-10%20145617.png)
+
+## DOCUpload
+![DOCUpload](Screenshot%202025-09-10%20145651.png)
 
 ## 📞 Contact
 
